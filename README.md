@@ -7,4 +7,4 @@ Through tech-driven ventures like Razroze, Joyi, and SMILE Clubs, I'm debugging 
 
 🌍 To merge the power of AI and computer science not just to patch severe mental health conditions, but to refactor the code that governs our emotional and psychological well-being. 🤖➕❤️
 
-<a href="https://giphy.com/gifs/LmNwrBhejkK9EFP504" target="blank"><img align="center" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="400" /></a>
+<a href="https://giphy.com/gifs/LmNwrBhejkK9EFP504" target="blank"><img align="center" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="300" /></a>
