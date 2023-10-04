@@ -1,4 +1,5 @@
-# Hello, World! I'm Rastin: Bridging the Gap between Tech & Psyche 🧠
+# Hello, World! I'm Rastin
+## Bridging the Gap between Tech & Psyche 🧠
 
 👨‍💻 While diving deep into the coding matrix at the University of Waterloo, I specialized in AI. But, my binary brain toggles between 1s, 0s, and the nuances of human psychology. 🧠
 
